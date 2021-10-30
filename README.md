@@ -1,5 +1,5 @@
 ### Eai, eu sou o Sávio Lopes
-<div align="center">
+<div align="">
   <a href="https://github.com/saviolopes018">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saviolopes018&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviolopes018&layout=compact&langs_count=7&theme=dark"/>
