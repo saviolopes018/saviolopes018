@@ -1,4 +1,4 @@
-### Eai, eu sou o Sávio Lopes
+### Hi, I'm Sávio Lopes
 <div align="center">
   <a href="https://github.com/saviolopes018">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saviolopes018&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
